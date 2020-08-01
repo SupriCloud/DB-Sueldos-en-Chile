@@ -1,4 +1,4 @@
-﻿sexo;sueldo;escolaridad;experiencia;ocupacion;edad
+sexo;sueldo;escolaridad;experiencia;ocupacion;edad
 Mujer;250000;12;38;Otros;56
 Mujer;200000;7;8;Otros;21
 Hombre;281750;12;6;Trabajadores de los servicios y vendedores de comercios;24
@@ -18,6 +18,7 @@ Mujer;270000;12;35;Empleados de oficina;53
 Hombre;140000;12;1;Otros;19
 Hombre;145395;12;47;Miembros del poder ejecutivo y de los cuerpos legislativo;65
 Mujer;500000;12;42;Trabajadores de los servicios y vendedores de comercios;60
+Mujer;500000;17;9;Profesionales, cientificos e intelectuales;32
 Mujer;400000;12;25;Tecnicos profesionales de nivel medio;43
 Hombre;386260;11;35;Oficiales, operarios y artesanos de artes mecanicas y de otros;52
 Hombre;1000000;17;4;Profesionales, cientificos e intelectuales;27
