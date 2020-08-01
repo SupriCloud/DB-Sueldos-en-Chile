@@ -1,0 +1,496 @@
+sexo;sueldo;escolaridad;experiencia;ocupacion;edad
+Mujer;250000;12;38;Otros;56
+Mujer;200000;7;8;Otros;21
+Hombre;281750;12;6;Trabajadores de los servicios y vendedores de comercios;24
+Hombre;311750;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;341667;15;5;Otros;26
+Mujer;130000;7;49;Otros;62
+Mujer;595000;12;41;Operadores de instalaciones y máquinas y montadores;59
+Mujer;540000;14;3;Técnicos profesionales de nivel medio;23
+Hombre;540000;12;5;Trabajadores de los servicios y vendedores de comercios;23
+Mujer;336000;12;32;Otros;50
+Mujer;420000;15;3;Técnicos profesionales de nivel medio;24
+Hombre;200000;8;34;Otros;48
+Mujer;380000;12;16;Empleados de oficina;34
+Hombre;300000;12;25;Otros;43
+Mujer;333333;6;56;Otros;68
+Mujer;270000;12;35;Empleados de oficina;53
+Hombre;140000;12;1;Otros;19
+Hombre;145395;12;47;Miembros del poder ejecutivo y de los cuerpos legislativo;65
+Mujer;500000;12;42;Trabajadores de los servicios y vendedores de comercios;60
+Mujer;500000;17;9;Profesionales, científicos e intelectuales;32
+Mujer;400000;12;25;Técnicos profesionales de nivel medio;43
+Hombre;386260;11;35;Oficiales, operarios y artesanos de artes mecánicas y de otros;52
+Hombre;1000000;17;4;Profesionales, científicos e intelectuales;27
+Mujer;700000;17;6;Profesionales, científicos e intelectuales;29
+Mujer;450000;17;11;Técnicos profesionales de nivel medio;34
+Hombre;600000;12;38;Oficiales, operarios y artesanos de artes mecánicas y de otros;56
+Mujer;350000;12;26;Técnicos profesionales de nivel medio;44
+Mujer;240000;12;13;Otros;31
+Mujer;260000;12;34;Otros;52
+Hombre;353500;12;15;Trabajadores de los servicios y vendedores de comercios;33
+Mujer;350000;12;7;Otros;25
+Hombre;320000;12;27;Otros;45
+Mujer;320000;9;29;Otros;44
+Hombre;200000;10;6;Oficiales, operarios y artesanos de artes mecánicas y de otros;22
+Hombre;260000;12;26;Otros;44
+Mujer;262500;12;17;Otros;35
+Mujer;500000;1;43;Otros;50
+Mujer;300000;12;13;Trabajadores de los servicios y vendedores de comercios;31
+Mujer;358333;15;48;Miembros del poder ejecutivo y de los cuerpos legislativo;69
+Mujer;300000;12;22;Empleados de oficina;40
+Hombre;1000000;12;30;Miembros del poder ejecutivo y de los cuerpos legislativo;48
+Hombre;500000;11;26;Operadores de instalaciones y máquinas y montadores;43
+Hombre;806667;12;42;Empleados de oficina;60
+Hombre;1300000;6;39;Trabajadores de los servicios y vendedores de comercios;51
+Mujer;400000;12;30;Empleados de oficina;48
+Mujer;400000;14;14;Técnicos profesionales de nivel medio;34
+Hombre;1000000;16;15;Miembros del poder ejecutivo y de los cuerpos legislativo;37
+Mujer;1000000;16;12;Miembros del poder ejecutivo y de los cuerpos legislativo;34
+Hombre;400000;12;28;Trabajadores de los servicios y vendedores de comercios;46
+Mujer;370000;12;31;Trabajadores de los servicios y vendedores de comercios;49
+Mujer;550000;17;6;Profesionales, científicos e intelectuales;29
+Hombre;1329622;17;14;Fuerzas Armadas;37
+Hombre;1800000;17;12;Fuerzas Armadas;35
+Hombre;2416667;16;42;Profesionales, científicos e intelectuales;64
+Mujer;276667;14;28;Empleados de oficina;48
+Hombre;1000000;17;43;Profesionales, científicos e intelectuales;66
+Mujer;600000;11;55;Técnicos profesionales de nivel medio;72
+Hombre;1380000;18;35;Profesionales, científicos e intelectuales;59
+Mujer;2000000;15;29;Empleados de oficina;50
+Mujer;180000;12;23;Trabajadores de los servicios y vendedores de comercios;41
+Hombre;350000;12;32;Trabajadores de los servicios y vendedores de comercios;50
+Hombre;350000;12;22;Operadores de instalaciones y máquinas y montadores;40
+Mujer;350000;12;20;Técnicos profesionales de nivel medio;38
+Hombre;550000;17;24;Técnicos profesionales de nivel medio;47
+Mujer;400000;12;20;Empleados de oficina;38
+Hombre;300000;8;49;Miembros del poder ejecutivo y de los cuerpos legislativo;63
+Mujer;300000;8;55;Miembros del poder ejecutivo y de los cuerpos legislativo;69
+Hombre;807662;17;6;Profesionales, científicos e intelectuales;29
+Mujer;695138;17;12;Profesionales, científicos e intelectuales;35
+Mujer;270000;4;38;Otros;48
+Mujer;200000;17;5;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;2002500;17;24;Profesionales, científicos e intelectuales;47
+Mujer;1080000;17;6;Profesionales, científicos e intelectuales;29
+Mujer;2600000;17;15;Profesionales, científicos e intelectuales;38
+Hombre;2200000;17;16;Profesionales, científicos e intelectuales;39
+Hombre;1820833;17;21;Profesionales, científicos e intelectuales;44
+Hombre;570917;12;7;Trabajadores de los servicios y vendedores de comercios;25
+Hombre;410000;12;7;Empleados de oficina;25
+Hombre;1400000;17;23;Profesionales, científicos e intelectuales;46
+Mujer;1000000;17;7;Profesionales, científicos e intelectuales;30
+Hombre;766667;17;5;Técnicos profesionales de nivel medio;28
+Mujer;410000;15;25;Empleados de oficina;46
+Hombre;700000;15;30;Operadores de instalaciones y máquinas y montadores;51
+Hombre;200000;17;19;Profesionales, científicos e intelectuales;42
+Hombre;2073334;17;17;Miembros del poder ejecutivo y de los cuerpos legislativo;40
+Hombre;1130000;15;16;Trabajadores de los servicios y vendedores de comercios;37
+Hombre;2082523;17;4;Profesionales, científicos e intelectuales;27
+Hombre;2800000;18;42;Profesionales, científicos e intelectuales;66
+Mujer;450000;10;54;Técnicos profesionales de nivel medio;70
+Hombre;1453750;17;6;Profesionales, científicos e intelectuales;29
+Mujer;170167;14;7;Trabajadores de los servicios y vendedores de comercios;27
+Hombre;1002333;15;22;Oficiales, operarios y artesanos de artes mecánicas y de otros;43
+Hombre;1308333;17;19;Miembros del poder ejecutivo y de los cuerpos legislativo;42
+Hombre;902167;14;16;Fuerzas Armadas;36
+Hombre;705000;12;10;Fuerzas Armadas;28
+Mujer;411666;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;504667;12;24;Otros;42
+Mujer;392500;12;22;Trabajadores de los servicios y vendedores de comercios;40
+Hombre;1127000;15;20;Fuerzas Armadas;41
+Mujer;605000;15;20;Técnicos profesionales de nivel medio;41
+Mujer;44824;12;5;Trabajadores de los servicios y vendedores de comercios;23
+Hombre;800000;12;24;Fuerzas Armadas;42
+Mujer;474167;11;22;Trabajadores de los servicios y vendedores de comercios;39
+Hombre;752083;12;23;Fuerzas Armadas;41
+Mujer;694167;12;22;Técnicos profesionales de nivel medio;40
+Hombre;921500;14;14;Fuerzas Armadas;34
+Hombre;1353333;14;20;Profesionales, científicos e intelectuales;40
+Mujer;1829500;20;20;Profesionales, científicos e intelectuales;46
+Hombre;510000;14;38;Otros;58
+Hombre;400000;10;7;Otros;23
+Mujer;464666;12;38;Trabajadores de los servicios y vendedores de comercios;56
+Hombre;660167;15;33;Operadores de instalaciones y máquinas y montadores;54
+Mujer;730000;17;13;Técnicos profesionales de nivel medio;36
+Hombre;601250;12;18;Oficiales, operarios y artesanos de artes mecánicas y de otros;36
+Mujer;341667;12;14;Otros;32
+Mujer;503333;17;13;Empleados de oficina;36
+Hombre;560000;15;24;Técnicos profesionales de nivel medio;45
+Mujer;566667;17;27;Empleados de oficina;50
+Mujer;502500;15;30;Técnicos profesionales de nivel medio;51
+Hombre;300000;12;14;Técnicos profesionales de nivel medio;32
+Hombre;1600000;12;35;Trabajadores de los servicios y vendedores de comercios;53
+Hombre;150000;8;16;Otros;30
+Hombre;750000;8;18;Operadores de instalaciones y máquinas y montadores;32
+Hombre;300000;12;25;Empleados de oficina;43
+Hombre;400000;15;16;Miembros del poder ejecutivo y de los cuerpos legislativo;37
+Mujer;282833;12;34;Técnicos profesionales de nivel medio;52
+Hombre;421667;11;35;Oficiales, operarios y artesanos de artes mecánicas y de otros;52
+Mujer;352500;12;2;Trabajadores de los servicios y vendedores de comercios;20
+Hombre;250000;12;7;Otros;25
+Hombre;450000;10;10;Oficiales, operarios y artesanos de artes mecánicas y de otros;26
+Mujer;120000;8;10;Trabajadores de los servicios y vendedores de comercios;24
+Hombre;406667;10;15;Agricultores y trabajadores calificados agropecuarios y pesqueros;31
+Hombre;600000;12;35;Oficiales, operarios y artesanos de artes mecánicas y de otros;53
+Mujer;410000;8;32;Agricultores y trabajadores calificados agropecuarios y pesqueros;46
+Mujer;356667;12;14;Agricultores y trabajadores calificados agropecuarios y pesqueros;32
+Hombre;303333;12;7;Trabajadores de los servicios y vendedores de comercios;25
+Mujer;80000;16;21;Técnicos profesionales de nivel medio;43
+Hombre;300000;16;1;Otros;23
+Hombre;260000;12;28;Oficiales, operarios y artesanos de artes mecánicas y de otros;46
+Hombre;265000;8;22;Otros;36
+Mujer;435000;1;49;Otros;56
+Mujer;2850000;11;13;Otros;30
+Hombre;275000;8;28;Otros;42
+Mujer;250000;8;54;Oficiales, operarios y artesanos de artes mecánicas y de otros;68
+Mujer;300000;12;44;Otros;62
+Hombre;404167;12;47;Operadores de instalaciones y máquinas y montadores;65
+Mujer;390000;12;16;Operadores de instalaciones y máquinas y montadores;34
+Hombre;452917;12;20;Oficiales, operarios y artesanos de artes mecánicas y de otros;38
+Mujer;200000;12;30;Agricultores y trabajadores calificados agropecuarios y pesqueros;48
+Mujer;300000;12;19;Miembros del poder ejecutivo y de los cuerpos legislativo;37
+Mujer;200000;12;4;Empleados de oficina;22
+Hombre;300000;15;21;Oficiales, operarios y artesanos de artes mecánicas y de otros;42
+Mujer;186000;5;56;Trabajadores de los servicios y vendedores de comercios;67
+Mujer;186000;12;14;Trabajadores de los servicios y vendedores de comercios;32
+Mujer;300000;12;22;Trabajadores de los servicios y vendedores de comercios;40
+Hombre;1000000;12;22;Operadores de instalaciones y máquinas y montadores;40
+Mujer;220000;12;2;Trabajadores de los servicios y vendedores de comercios;20
+Mujer;500000;12;16;Empleados de oficina;34
+Hombre;600000;12;23;Empleados de oficina;41
+Mujer;280000;16;14;Empleados de oficina;36
+Hombre;380000;15;12;Técnicos profesionales de nivel medio;33
+Hombre;250000;3;55;Oficiales, operarios y artesanos de artes mecánicas y de otros;64
+Hombre;300000;6;42;Oficiales, operarios y artesanos de artes mecánicas y de otros;54
+Hombre;550000;15;23;Oficiales, operarios y artesanos de artes mecánicas y de otros;44
+Hombre;130000;8;40;Trabajadores de los servicios y vendedores de comercios;54
+Mujer;100000;8;38;Trabajadores de los servicios y vendedores de comercios;52
+Hombre;180000;15;31;Miembros del poder ejecutivo y de los cuerpos legislativo;52
+Hombre;350000;9;28;Oficiales, operarios y artesanos de artes mecánicas y de otros;43
+Mujer;150000;12;4;Miembros del poder ejecutivo y de los cuerpos legislativo;22
+Mujer;275000;12;12;Otros;30
+Mujer;276000;9;24;Operadores de instalaciones y máquinas y montadores;39
+Hombre;256000;9;25;Agricultores y trabajadores calificados agropecuarios y pesqueros;40
+Mujer;350000;12;12;Empleados de oficina;30
+Hombre;450000;12;44;Técnicos profesionales de nivel medio;62
+Hombre;388333;12;15;Operadores de instalaciones y máquinas y montadores;33
+Mujer;348333;14;5;Empleados de oficina;25
+Hombre;300000;15;0;Técnicos profesionales de nivel medio;21
+Hombre;400000;11;26;Operadores de instalaciones y máquinas y montadores;43
+Mujer;350000;12;12;Empleados de oficina;30
+Mujer;80000;12;41;Otros;59
+Mujer;300000;12;24;Técnicos profesionales de nivel medio;42
+Hombre;400000;10;35;Oficiales, operarios y artesanos de artes mecánicas y de otros;51
+Mujer;500000;6;39;Otros;51
+Hombre;1088333;12;13;Otros;31
+Mujer;410000;9;7;Otros;22
+Hombre;650000;12;19;Trabajadores de los servicios y vendedores de comercios;37
+Hombre;260000;15;3;Trabajadores de los servicios y vendedores de comercios;24
+Mujer;480000;12;19;Trabajadores de los servicios y vendedores de comercios;37
+Hombre;150000;15;28;Oficiales, operarios y artesanos de artes mecánicas y de otros;49
+Hombre;500000;7;37;Otros;50
+Hombre;600000;12;23;Oficiales, operarios y artesanos de artes mecánicas y de otros;41
+Hombre;295000;15;27;Operadores de instalaciones y máquinas y montadores;48
+Hombre;451775;12;26;Otros;44
+Hombre;750000;12;22;Operadores de instalaciones y máquinas y montadores;40
+Hombre;270000;12;25;Oficiales, operarios y artesanos de artes mecánicas y de otros;43
+Mujer;270000;11;23;Trabajadores de los servicios y vendedores de comercios;40
+Hombre;450000;11;51;Oficiales, operarios y artesanos de artes mecánicas y de otros;68
+Hombre;380000;8;55;Agricultores y trabajadores calificados agropecuarios y pesqueros;69
+Hombre;420000;10;36;Operadores de instalaciones y máquinas y montadores;52
+Mujer;450000;10;30;Trabajadores de los servicios y vendedores de comercios;46
+Hombre;600000;12;5;Oficiales, operarios y artesanos de artes mecánicas y de otros;23
+Hombre;200000;14;4;Empleados de oficina;24
+Hombre;290000;12;0;Empleados de oficina;18
+Mujer;120000;14;5;Trabajadores de los servicios y vendedores de comercios;25
+Hombre;256000;6;43;Operadores de instalaciones y máquinas y montadores;55
+Mujer;311667;12;20;Operadores de instalaciones y máquinas y montadores;38
+Mujer;20000;11;0;Operadores de instalaciones y máquinas y montadores;17
+Hombre;280000;12;40;Otros;58
+Hombre;479167;12;11;Operadores de instalaciones y máquinas y montadores;29
+Mujer;280000;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;120000;12;35;Miembros del poder ejecutivo y de los cuerpos legislativo;53
+Mujer;160000;12;40;Miembros del poder ejecutivo y de los cuerpos legislativo;58
+Hombre;256000;12;12;Otros;30
+Mujer;221667;12;14;Empleados de oficina;32
+Hombre;500000;12;16;Operadores de instalaciones y máquinas y montadores;34
+Mujer;248000;10;56;Empleados de oficina;72
+Hombre;248000;12;27;Otros;45
+Mujer;240000;12;16;Otros;34
+Hombre;600000;12;42;Miembros del poder ejecutivo y de los cuerpos legislativo;60
+Mujer;400000;12;41;Miembros del poder ejecutivo y de los cuerpos legislativo;59
+Mujer;200000;9;38;Trabajadores de los servicios y vendedores de comercios;53
+Mujer;270000;12;12;Trabajadores de los servicios y vendedores de comercios;30
+Hombre;800000;12;37;Operadores de instalaciones y máquinas y montadores;55
+Mujer;220000;10;36;Trabajadores de los servicios y vendedores de comercios;52
+Hombre;835720;16;6;Oficiales, operarios y artesanos de artes mecánicas y de otros;28
+Hombre;260130;10;4;Trabajadores de los servicios y vendedores de comercios;20
+Mujer;50000;0;70;Otros;76
+Mujer;248000;12;7;Trabajadores de los servicios y vendedores de comercios;25
+Hombre;600000;3;27;Operadores de instalaciones y máquinas y montadores;36
+Mujer;900000;18;3;Técnicos profesionales de nivel medio;27
+Hombre;273668;16;1;Trabajadores de los servicios y vendedores de comercios;23
+Mujer;384167;15;18;Técnicos profesionales de nivel medio;39
+Hombre;150000;12;17;Trabajadores de los servicios y vendedores de comercios;35
+Mujer;70000;12;21;Trabajadores de los servicios y vendedores de comercios;39
+Mujer;388333;15;21;Empleados de oficina;42
+Hombre;275000;14;0;Profesionales, científicos e intelectuales;20
+Hombre;251417;12;55;Otros;73
+Mujer;645834;12;33;Trabajadores de los servicios y vendedores de comercios;51
+Hombre;50000;12;43;Miembros del poder ejecutivo y de los cuerpos legislativo;61
+Hombre;403333;12;6;Operadores de instalaciones y máquinas y montadores;24
+Hombre;276000;12;6;Oficiales, operarios y artesanos de artes mecánicas y de otros;24
+Hombre;300000;9;12;Oficiales, operarios y artesanos de artes mecánicas y de otros;27
+Hombre;450000;12;48;Oficiales, operarios y artesanos de artes mecánicas y de otros;66
+Mujer;300000;12;39;Oficiales, operarios y artesanos de artes mecánicas y de otros;57
+Hombre;400000;14;8;Operadores de instalaciones y máquinas y montadores;28
+Hombre;1500000;16;51;Miembros del poder ejecutivo y de los cuerpos legislativo;73
+Hombre;357500;12;17;Oficiales, operarios y artesanos de artes mecánicas y de otros;35
+Mujer;280000;12;17;Miembros del poder ejecutivo y de los cuerpos legislativo;35
+Hombre;350000;17;50;Operadores de instalaciones y máquinas y montadores;73
+Hombre;300000;8;22;Miembros del poder ejecutivo y de los cuerpos legislativo;36
+Mujer;300000;12;15;Miembros del poder ejecutivo y de los cuerpos legislativo;33
+Hombre;703333;14;19;Fuerzas Armadas;39
+Mujer;275000;12;3;Empleados de oficina;21
+Hombre;805833;16;4;Fuerzas Armadas;26
+Mujer;508333;16;0;Fuerzas Armadas;22
+Hombre;878250;15;5;Oficiales, operarios y artesanos de artes mecánicas y de otros;26
+Hombre;500000;15;17;Profesionales, científicos e intelectuales;38
+Hombre;552500;15;18;Fuerzas Armadas;39
+Hombre;800000;16;8;Técnicos profesionales de nivel medio;30
+Mujer;1200000;17;10;Trabajadores de los servicios y vendedores de comercios;33
+Hombre;600000;15;19;Fuerzas Armadas;40
+Hombre;900000;15;7;Fuerzas Armadas;28
+Mujer;500000;15;4;Técnicos profesionales de nivel medio;25
+Hombre;400000;14;17;Fuerzas Armadas;37
+Hombre;444167;15;4;Fuerzas Armadas;25
+Hombre;860000;12;11;Fuerzas Armadas;29
+Mujer;380000;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;509167;15;4;Fuerzas Armadas;25
+Hombre;1300000;15;18;Oficiales, operarios y artesanos de artes mecánicas y de otros;39
+Hombre;902333;15;8;Trabajadores de los servicios y vendedores de comercios;29
+Mujer;653750;15;2;Trabajadores de los servicios y vendedores de comercios;23
+Hombre;500000;15;6;Fuerzas Armadas;27
+Hombre;700000;16;12;Oficiales, operarios y artesanos de artes mecánicas y de otros;34
+Mujer;388000;15;6;Técnicos profesionales de nivel medio;27
+Hombre;500000;12;24;Fuerzas Armadas;42
+Hombre;750000;12;22;Trabajadores de los servicios y vendedores de comercios;40
+Mujer;650000;12;23;Trabajadores de los servicios y vendedores de comercios;41
+Hombre;700000;12;6;Fuerzas Armadas;24
+Mujer;450000;12;9;Trabajadores de los servicios y vendedores de comercios;27
+Hombre;350000;15;7;Fuerzas Armadas;28
+Hombre;455833;15;4;Oficiales, operarios y artesanos de artes mecánicas y de otros;25
+Hombre;510000;15;9;Técnicos profesionales de nivel medio;30
+Hombre;955000;15;12;Oficiales, operarios y artesanos de artes mecánicas y de otros;33
+Mujer;600000;17;10;Profesionales, científicos e intelectuales;33
+Hombre;600000;12;5;Fuerzas Armadas;23
+Mujer;250000;12;6;Técnicos profesionales de nivel medio;24
+Hombre;400000;8;27;Otros;41
+Mujer;281000;8;26;Trabajadores de los servicios y vendedores de comercios;40
+Mujer;100000;8;39;Operadores de instalaciones y máquinas y montadores;53
+Hombre;541333;10;13;Empleados de oficina;29
+Hombre;150000;8;29;Agricultores y trabajadores calificados agropecuarios y pesqueros;43
+Hombre;714250;9;11;Empleados de oficina;26
+Hombre;281250;8;56;Otros;70
+Hombre;281250;10;16;Otros;32
+Hombre;316667;8;38;Otros;52
+Hombre;300000;3;12;Otros;21
+Mujer;20000;10;8;Trabajadores de los servicios y vendedores de comercios;24
+Mujer;270000;12;30;Otros;48
+Hombre;400000;12;24;Otros;42
+Hombre;353000;12;7;Otros;25
+Mujer;270000;12;9;Trabajadores de los servicios y vendedores de comercios;27
+Hombre;350000;12;12;Otros;30
+Mujer;274167;12;6;Trabajadores de los servicios y vendedores de comercios;24
+Hombre;100000;7;6;Otros;19
+Hombre;300000;6;59;Oficiales, operarios y artesanos de artes mecánicas y de otros;71
+Hombre;200000;5;54;Operadores de instalaciones y máquinas y montadores;65
+Hombre;50000;6;51;Oficiales, operarios y artesanos de artes mecánicas y de otros;63
+Hombre;295000;14;29;Otros;49
+Hombre;195000;10;17;Otros;33
+Mujer;1014167;17;9;Miembros del poder ejecutivo y de los cuerpos legislativo;32
+Mujer;814167;17;8;Profesionales, científicos e intelectuales;31
+Hombre;1594167;19;6;Profesionales, científicos e intelectuales;31
+Hombre;530000;10;35;Otros;51
+Mujer;280000;15;3;Trabajadores de los servicios y vendedores de comercios;24
+Hombre;273000;4;22;Otros;32
+Mujer;146667;12;13;Otros;31
+Hombre;380000;8;33;Otros;47
+Hombre;550000;12;19;Oficiales, operarios y artesanos de artes mecánicas y de otros;37
+Hombre;366000;12;29;Otros;47
+Mujer;300000;12;29;Otros;47
+Hombre;350000;12;46;Miembros del poder ejecutivo y de los cuerpos legislativo;64
+Hombre;534167;12;9;Otros;27
+Hombre;600000;11;14;Miembros del poder ejecutivo y de los cuerpos legislativo;31
+Mujer;200000;9;15;Oficiales, operarios y artesanos de artes mecánicas y de otros;30
+Mujer;270000;8;41;Otros;55
+Mujer;300000;6;17;Empleados de oficina;29
+Hombre;300833;11;34;Agricultores y trabajadores calificados agropecuarios y pesqueros;51
+Mujer;340000;10;21;Otros;37
+Hombre;400000;13;41;Oficiales, operarios y artesanos de artes mecánicas y de otros;60
+Hombre;230000;6;68;Agricultores y trabajadores calificados agropecuarios y pesqueros;80
+Mujer;382083;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;462792;12;11;Oficiales, operarios y artesanos de artes mecánicas y de otros;29
+Hombre;604655;9;35;Oficiales, operarios y artesanos de artes mecánicas y de otros;50
+Mujer;416785;12;31;Trabajadores de los servicios y vendedores de comercios;49
+Hombre;455833;10;3;Oficiales, operarios y artesanos de artes mecánicas y de otros;19
+Hombre;668333;14;21;Profesionales, científicos e intelectuales;41
+Mujer;280000;17;18;Profesionales, científicos e intelectuales;41
+Mujer;456667;12;21;Técnicos profesionales de nivel medio;39
+Hombre;952500;17;25;Operadores de instalaciones y máquinas y montadores;48
+Mujer;689000;16;38;Miembros del poder ejecutivo y de los cuerpos legislativo;60
+Mujer;190000;10;49;Técnicos profesionales de nivel medio;65
+Hombre;500000;17;9;Técnicos profesionales de nivel medio;32
+Hombre;540736;15;9;Técnicos profesionales de nivel medio;30
+Mujer;348667;13;28;Técnicos profesionales de nivel medio;47
+Mujer;585000;15;16;Técnicos profesionales de nivel medio;37
+Mujer;515167;17;11;Técnicos profesionales de nivel medio;34
+Mujer;615000;12;39;Empleados de oficina;57
+Hombre;539167;12;17;Trabajadores de los servicios y vendedores de comercios;35
+Mujer;500000;12;36;Técnicos profesionales de nivel medio;54
+Hombre;200000;11;37;Trabajadores de los servicios y vendedores de comercios;54
+Mujer;200000;12;34;Trabajadores de los servicios y vendedores de comercios;52
+Mujer;400000;12;4;Técnicos profesionales de nivel medio;22
+Hombre;275000;12;8;Oficiales, operarios y artesanos de artes mecánicas y de otros;26
+Hombre;276667;9;50;Oficiales, operarios y artesanos de artes mecánicas y de otros;65
+Hombre;530000;12;30;Trabajadores de los servicios y vendedores de comercios;48
+Mujer;280000;12;29;Trabajadores de los servicios y vendedores de comercios;47
+Mujer;275000;12;43;Trabajadores de los servicios y vendedores de comercios;61
+Mujer;275000;16;16;Profesionales, científicos e intelectuales;38
+Hombre;270000;10;47;Otros;63
+Hombre;801500;17;11;Técnicos profesionales de nivel medio;34
+Hombre;800000;12;32;Oficiales, operarios y artesanos de artes mecánicas y de otros;50
+Hombre;382000;12;10;Trabajadores de los servicios y vendedores de comercios;28
+Hombre;300000;12;63;Oficiales, operarios y artesanos de artes mecánicas y de otros;81
+Hombre;300000;11;34;Otros;51
+Hombre;1400000;17;5;Profesionales, científicos e intelectuales;28
+Mujer;75370;17;0;Trabajadores de los servicios y vendedores de comercios;23
+Hombre;100000;11;34;Otros;51
+Hombre;900000;16;7;Empleados de oficina;29
+Mujer;600000;12;43;Técnicos profesionales de nivel medio;61
+Mujer;500000;11;40;Miembros del poder ejecutivo y de los cuerpos legislativo;57
+Mujer;1300000;17;16;Miembros del poder ejecutivo y de los cuerpos legislativo;39
+Hombre;1079125;17;6;Profesionales, científicos e intelectuales;29
+Mujer;320167;12;40;Trabajadores de los servicios y vendedores de comercios;58
+Hombre;320000;12;21;Operadores de instalaciones y máquinas y montadores;39
+Hombre;301250;0;78;Otros;84
+Mujer;120000;11;56;Otros;73
+Hombre;408000;17;16;Miembros del poder ejecutivo y de los cuerpos legislativo;39
+Mujer;1000000;17;1;Profesionales, científicos e intelectuales;24
+Hombre;200000;10;44;Otros;60
+Hombre;300000;8;22;Oficiales, operarios y artesanos de artes mecánicas y de otros;36
+Mujer;380000;13;30;Empleados de oficina;49
+Hombre;280000;12;27;Miembros del poder ejecutivo y de los cuerpos legislativo;45
+Mujer;1311667;17;3;Profesionales, científicos e intelectuales;26
+Hombre;700000;15;3;Técnicos profesionales de nivel medio;24
+Mujer;415000;12;13;Empleados de oficina;31
+Mujer;318500;12;40;Trabajadores de los servicios y vendedores de comercios;58
+Hombre;322500;12;21;Trabajadores de los servicios y vendedores de comercios;39
+Mujer;180000;12;19;Otros;37
+Hombre;500000;16;37;Operadores de instalaciones y máquinas y montadores;59
+Mujer;200000;12;43;Técnicos profesionales de nivel medio;61
+Mujer;326833;12;44;Trabajadores de los servicios y vendedores de comercios;62
+Hombre;350000;10;47;Técnicos profesionales de nivel medio;63
+Hombre;350000;10;47;Oficiales, operarios y artesanos de artes mecánicas y de otros;63
+Hombre;1000000;15;13;Técnicos profesionales de nivel medio;34
+Mujer;508333;17;17;Técnicos profesionales de nivel medio;40
+Hombre;1304202;17;35;Técnicos profesionales de nivel medio;58
+Mujer;507500;15;21;Técnicos profesionales de nivel medio;42
+Hombre;1000000;12;32;Operadores de instalaciones y máquinas y montadores;50
+Hombre;1000000;15;18;Técnicos profesionales de nivel medio;39
+Mujer;150000;15;17;Técnicos profesionales de nivel medio;38
+Hombre;550833;15;4;Técnicos profesionales de nivel medio;25
+Mujer;393000;12;16;Trabajadores de los servicios y vendedores de comercios;34
+Hombre;2020000;17;26;Técnicos profesionales de nivel medio;49
+Mujer;1411667;17;24;Profesionales, científicos e intelectuales;47
+Hombre;416667;12;43;Operadores de instalaciones y máquinas y montadores;61
+Mujer;700000;15;8;Oficiales, operarios y artesanos de artes mecánicas y de otros;29
+Hombre;1500000;16;31;Técnicos profesionales de nivel medio;53
+Hombre;257039;17;7;Otros;30
+Hombre;312360;12;8;Trabajadores de los servicios y vendedores de comercios;26
+Hombre;530000;12;32;Operadores de instalaciones y máquinas y montadores;50
+Mujer;400000;12;7;Empleados de oficina;25
+Hombre;605000;12;12;Operadores de instalaciones y máquinas y montadores;30
+Hombre;400000;10;44;Operadores de instalaciones y máquinas y montadores;60
+Mujer;150000;12;14;Otros;32
+Hombre;550000;12;21;Técnicos profesionales de nivel medio;39
+Mujer;245000;12;13;Otros;31
+Hombre;450000;11;26;Oficiales, operarios y artesanos de artes mecánicas y de otros;43
+Hombre;450000;12;25;Empleados de oficina;43
+Hombre;903333;20;20;Profesionales, científicos e intelectuales;46
+Mujer;453333;12;23;Trabajadores de los servicios y vendedores de comercios;41
+Hombre;450000;12;16;Empleados de oficina;34
+Hombre;1500000;11;55;Trabajadores de los servicios y vendedores de comercios;72
+Mujer;700000;8;19;Otros;33
+Hombre;502500;17;17;Oficiales, operarios y artesanos de artes mecánicas y de otros;40
+Mujer;330000;12;29;Otros;47
+Mujer;230000;15;19;Trabajadores de los servicios y vendedores de comercios;40
+Mujer;11250;9;60;Oficiales, operarios y artesanos de artes mecánicas y de otros;75
+Mujer;194907;9;46;Oficiales, operarios y artesanos de artes mecánicas y de otros;61
+Mujer;321250;12;18;Otros;36
+Hombre;200000;13;3;Otros;22
+Mujer;250000;12;43;Trabajadores de los servicios y vendedores de comercios;61
+Hombre;474167;14;8;Técnicos profesionales de nivel medio;28
+Mujer;1142500;17;11;Profesionales, científicos e intelectuales;34
+Mujer;270000;9;34;Trabajadores de los servicios y vendedores de comercios;49
+Hombre;200000;10;23;Oficiales, operarios y artesanos de artes mecánicas y de otros;39
+Mujer;350000;16;15;Técnicos profesionales de nivel medio;37
+Hombre;166000;12;50;Operadores de instalaciones y máquinas y montadores;68
+Mujer;300000;7;42;Trabajadores de los servicios y vendedores de comercios;55
+Mujer;270000;15;7;Otros;28
+Mujer;270000;12;2;Otros;20
+Hombre;270000;10;3;Oficiales, operarios y artesanos de artes mecánicas y de otros;19
+Hombre;270000;12;20;Oficiales, operarios y artesanos de artes mecánicas y de otros;38
+Hombre;370000;12;15;Otros;33
+Mujer;300000;12;14;Otros;32
+Hombre;500000;12;16;Oficiales, operarios y artesanos de artes mecánicas y de otros;34
+Mujer;45000;12;18;Otros;36
+Hombre;270000;12;14;Oficiales, operarios y artesanos de artes mecánicas y de otros;32
+Mujer;250000;12;14;Trabajadores de los servicios y vendedores de comercios;32
+Hombre;300000;12;19;Oficiales, operarios y artesanos de artes mecánicas y de otros;37
+Mujer;270000;12;5;Trabajadores de los servicios y vendedores de comercios;23
+Hombre;350000;15;14;Técnicos profesionales de nivel medio;35
+Mujer;350000;15;14;Trabajadores de los servicios y vendedores de comercios;35
+Hombre;450000;14;40;Técnicos profesionales de nivel medio;60
+Mujer;120000;12;5;Otros;23
+Mujer;345000;10;12;Otros;28
+Mujer;840000;8;43;Otros;57
+Mujer;65000;13;36;Empleados de oficina;55
+Mujer;909167;17;6;Técnicos profesionales de nivel medio;29
+Mujer;270666;12;19;Trabajadores de los servicios y vendedores de comercios;37
+Hombre;452083;12;20;Trabajadores de los servicios y vendedores de comercios;38
+Hombre;250000;9;36;Operadores de instalaciones y máquinas y montadores;51
+Hombre;500000;12;30;Oficiales, operarios y artesanos de artes mecánicas y de otros;48
+Hombre;60000;12;12;Oficiales, operarios y artesanos de artes mecánicas y de otros;30
+Hombre;250000;9;19;Operadores de instalaciones y máquinas y montadores;34
+Mujer;1003333;17;20;Profesionales, científicos e intelectuales;43
+Hombre;1004167;19;31;Profesionales, científicos e intelectuales;56
+Mujer;1083333;18;25;Profesionales, científicos e intelectuales;49
+Mujer;691667;13;7;Trabajadores de los servicios y vendedores de comercios;26
+Hombre;336480;10;50;Técnicos profesionales de nivel medio;66
+Mujer;550000;15;40;Técnicos profesionales de nivel medio;61
+Hombre;1439333;13;28;Técnicos profesionales de nivel medio;47
+Mujer;840000;13;28;Trabajadores de los servicios y vendedores de comercios;47
+Hombre;1400000;14;9;Profesionales, científicos e intelectuales;29
+Hombre;700000;15;24;Oficiales, operarios y artesanos de artes mecánicas y de otros;45
+Hombre;1200000;10;57;Técnicos profesionales de nivel medio;73
+Hombre;330000;14;1;Trabajadores de los servicios y vendedores de comercios;21
+Mujer;200000;17;33;Otros;56
+Hombre;220000;12;7;Empleados de oficina;25
+Hombre;602083;11;40;Operadores de instalaciones y máquinas y montadores;57
+Mujer;150000;11;37;Oficiales, operarios y artesanos de artes mecánicas y de otros;54
+Mujer;400000;12;8;Empleados de oficina;26
+Hombre;500000;12;22;Otros;40
+Mujer;60000;12;25;Oficiales, operarios y artesanos de artes mecánicas y de otros;43
+Hombre;750000;12;16;Operadores de instalaciones y máquinas y montadores;34
+Mujer;30000;12;17;Otros;35
+Hombre;350000;12;35;Otros;53
+Mujer;450000;12;13;Empleados de oficina;31
+Mujer;330000;12;7;Empleados de oficina;25
+Hombre;550000;12;20;Operadores de instalaciones y máquinas y montadores;38
+Hombre;420000;13;6;Otros;25
+Mujer;105000;11;55;Otros;72
+Hombre;312360;12;7;Trabajadores de los servicios y vendedores de comercios;25
+Hombre;300000;12;13;Oficiales, operarios y artesanos de artes mecánicas y de otros;31
+Mujer;270000;12;17;Trabajadores de los servicios y vendedores de comercios;35
+Hombre;550000;12;10;Oficiales, operarios y artesanos de artes mecánicas y de otros;28
